@@ -17,4 +17,6 @@ This is a simple web project, deployment can be on any web server or even local 
 ## How to Contribute
 
 ### Copyright
-Copyright 2020 git training
+Copyright 2020 git training   
+
+Adding instructions about copyright rules
